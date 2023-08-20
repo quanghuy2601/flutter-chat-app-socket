@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791332674945",
+    "project_id": "project-socket-chat-app",
+    "storage_bucket": "project-socket-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791332674945:android:96bc95e3a877291fc65c80",
+        "android_client_info": {
+          "package_name": "com.dusty.project_socket_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791332674945-l2flpqa04ej8nffvakua30jfve0ja8lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HZiXG3DV3jAKNUOEsNkkp33rluI--1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791332674945-l2flpqa04ej8nffvakua30jfve0ja8lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
